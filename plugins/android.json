@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.gito.test01"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.gito.test01"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.gito.test01"
+        },
+        "pushbots-cordova-plugin": {
+            "PACKAGE_NAME": "com.gito.test01"
+        }
+    },
+    "dependent_plugins": {}
+}
